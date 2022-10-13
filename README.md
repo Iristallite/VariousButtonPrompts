@@ -5,7 +5,7 @@ I've decided to share these because open-source is poggers <sup>`i am not sorry 
 
 ## Games I've done this to
 
-> [Metroid: Other M (Wii)](###metroid-other-m-wii)
+> [Metroid: Other M (Wii)](#metroid-other-m-wii)
 
 
 ### Metroid: Other M (Wii)
