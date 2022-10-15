@@ -5,7 +5,7 @@ Part of [CBPFVG](https://github.com/NoriLynnfield/CBPFVG)
 
 ### Installation Instructions
 
-1. [Download](https://github.com/NoriLynnfield/CBPFVG/releases/tag/mgrr) the `.zip` file corresponding to [your controller.](#supported-controllers)
+1. [Download](https://github.com/NoriLynnfield/CBPFVG/releases/tag/MGRR) the `.zip` file corresponding to [your controller.](#supported-controllers)
 2. Copy the `ui` folder from the downloaded `.zip` file to the `GameData` folder in *MGRR*'s installation directory.
   >IMPORTANT STEP FOR STEAM INPUT USERS WITH SWITCH CONTROLLERS: Make sure your face buttons correspond to a **_positional XInput_** mapping.
 3. Start *MGRR* and check if the prompts match your controller.
