@@ -9,7 +9,7 @@ I've decided to share these because open-source is poggers <sup>`i am not sorry 
 > [~~Metroid: Other M (Wii)~~](#metroid-other-m-wii) | **Unfinished!!**
 
 ### Metal Gear Rising: Revengeance (PC)
->[install/uninstall](https://github.com/NoriLynnfield/CBPFVG/MGRR/Installation.md) | [dev documentation](https://github.com/NoriLynnfield/CBPFVG/MGRR/research/MGRR_Documentation.md)
+>[install/uninstall](MGRR/Installation.md) | [dev documentation](MGRR/research/MGRR_Documentation.md)
 
 Installation difficulty: **extremely easy**  
 Supported Controllers:
