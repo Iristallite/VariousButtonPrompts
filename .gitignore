@@ -1,0 +1,11 @@
+MGRR/research/root/bin/*
+MGRR/research/root/dump/*
+MGRR/research/root/output/*
+MGRR/research/root/temp_rebuild/*
+MGRR/research/root/working/*
+MGRR/research/root/*test*/*
+MGRR/research/root/*.bms
+MGRR/research/root/*.cpk
+MGRR/research/root/*.dds
+MGRR/research/root/*.exe
+MGRR/research/root/*.pdn
