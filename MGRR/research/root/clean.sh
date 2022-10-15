@@ -3,7 +3,6 @@
 rmdir ./dump
 rmdir ./output
 rmdir ./temp_rebuild
-rmdir ./working
 mkdir ./bin
 mkdir ./dump
 mkdir ./output
