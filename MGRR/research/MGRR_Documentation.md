@@ -1,4 +1,4 @@
-Part of [CBPFVG](https://github.com/NoriLynnfield/CBPFVG)'s in-depth documentation.
+Part of [VariousButtonPrompts](https://github.com/NoriLynnfield/VariousButtonPrompts)'s in-depth documentation.
 > unfinished but functional
 
 # **NOT MEANT FOR THE AVERAGE USER**
@@ -10,10 +10,8 @@ Part of [CBPFVG](https://github.com/NoriLynnfield/CBPFVG)'s in-depth documentati
 
 
 ## File Info
-> `ui/360/` folder still needs to be done, as well as `ui_core_!us`
-> 
+> `ui/360/` folder still needs to be done, as well as `ui_core_!us`  
 > A "Layers" model will be used for the specific textures being modified here. (This game has nested archives, so this is a good model)
-
 * [Layer 0](#layer-0): `[GameData]` folder in *MGRR*'s installation directory.
 * [Layer 1](#layer-1): `Data000.cpk`
 * [Layer 2](#layer-2): These files in `Data000.cpk`:
@@ -37,15 +35,11 @@ Part of [CBPFVG](https://github.com/NoriLynnfield/CBPFVG)'s in-depth documentati
 ## Programs Used
 
 * [Kerilk/bayonetta_tools](https://github.com/Kerilk/bayonetta_tools)
-  
   * Handles PlatinumGames data files (DTT, WTB)
   * I only used this with Ubuntu on WSL
-  
   * **Needs dependencies; use `ruby_setup.sh` or run these commands manually:**
-
     * `sudo apt install ruby ruby-dev git build-essential zlib1g-dev libassimp-dev imagemagick`
     * `gem install --user-install nokogiri libbin assimp-ffi zstd-ruby`  
-
   * **not present by default; clone it inside the `[bin]` folder.**
 * [QuickBMS](http://aluigi.altervista.org/quickbms.htm) with `cpk.bms`
   * `cpk.bms` extracts/reimports `Data000.cpk`  
@@ -83,6 +77,4 @@ Part of [CBPFVG](https://github.com/NoriLynnfield/CBPFVG)'s in-depth documentati
     > (ready to drop into *MGRR*'s `[GameData]` folder)
 
 ## Commands used
-> [I made some scripts afterwards.](#auto-scripts)
-> 
-> **<sup>[2023-01-28]</sup>** I have genuinely forgotten which commands.
+> [I made some scripts afterwards.](#auto-scripts)  **<sup>[2023-01-28] I have genuinely forgotten which commands.</sup>**

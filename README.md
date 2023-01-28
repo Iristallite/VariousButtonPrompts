@@ -1,4 +1,4 @@
-# CBPFVG: Custom Button Prompts For Various Games
+# Various Button Prompts <sup>(For Various Games)</sup>
 
 Sometimes, I make small mods to games to integrate custom button prompts!  
 I've decided to share these because open-source is poggers <sup>`i am not sorry for that`</sup>
