@@ -46,8 +46,9 @@ Part of [VariousButtonPrompts](https://github.com/NoriLynnfield/VariousButtonPro
   * **not present by default; download it yourself**
 * [paint.net](https://getpaint.net)
   * Used in this instance for actually editing the DDS textures
-* My ADHD
+* My [ADHD](https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder)
   * Hyperfocused on this for over 8 hours
+  * This is a joke
 
 ## Workspace Layout
 * `[root]`
